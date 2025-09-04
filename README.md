@@ -3,17 +3,14 @@
 This is a Supplemental Material for the paper  
 *"Elastoplasticity with softening as a state-dependent sweeping process: non-uniqueness of solutions and emergence of shear bands in lattices of springs"*  
 by I. Gudoshnikov (Institute of Mathematics of the Czech Academy of Sciences, Žitná 25, 110 00, Praha 1, Czech Republic).
+This research is supported by the Czech Science Foundation project GA24-10586S and the Czech Academy of Sciences (RVO: 67985840).
 
+## VIDEOS AND IMAGES
 Included are full videos of the simulations of the Lattice Spring Models, obtained from the state-dependent sweeping process formulation via the implicit catch-up method (Algorithm 2 in the paper). 
 Included are the examples from Section 6, as well as a few additional relevant examples.
 
 Note: in the Figs. 10-16 a-h in the paper the color was adjusted so that red color means the maximum value of the respective variable on time-interval [0, 6]. In the supplemental videos, showing full evolution on time-interval [0,10], red color indicates the maximum value on [0,10]. 
 
-The computer codes of the simulations are YET TO BE included.
-
-This research is supported by the Czech Science Foundation project GA24-10586S and the Czech Academy of Sciences (RVO: 67985840).
-
-## VIDEOS AND IMAGES
 **A symmetric rectangular lattice with softening**  
 See Section 6.1.1 and Fig. 10 in the paper.
 
