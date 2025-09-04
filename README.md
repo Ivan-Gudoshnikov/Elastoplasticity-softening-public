@@ -13,6 +13,7 @@ The computer codes of the simulations are YET TO BE included.
 
 This research is supported by the Czech Science Foundation project GA24-10586S and the Czech Academy of Sciences (RVO: 67985840).
 
+##VIDEOS AND IMAGES##
 **A symmetric rectangular lattice with softening**  
 See Section 6.1.1 and Fig. 10 in the paper.
 
@@ -77,4 +78,25 @@ See Section 6.2 and Fig. 16 in the paper.
 
 * triangles_softening_defect_damage.mp4
 * triangles_softening_defect_stress.mp4
+
+##COMPUTER PROGRAMS##
+The simulations are Python/NumPy programs,
+Python 3.10 and PyCharm Community edition are recommended to use.
+
+Runnable examples are:
+* player.py
+* large_lattices_examples\square_10x15_hardening.py
+* large_lattices_examples\square_10x15_hardening_defect_to_right.py
+* large_lattices_examples\square_10x15_pp.py
+* large_lattices_examples\square_10x15_pp_defect_to_right.py
+* large_lattices_examples\square_10x15_softening.py
+* large_lattices_examples\square_10x15_softening_defect_to_right.py
+* large_lattices_examples\square_10x15_softening_initial_guess2.py
+* large_lattices_examples\triangles_softening.py
+* large_lattices_examples\triangles_softening_defect.py
+* two_spring_example\hard+hard_1_solution.py
+* two_spring_example\pp+pp_many_solutions.py
+* two_spring_example\soft+soft_3_solutions.py
+
+DISCLAIMER: The simulations serve as a proof of concept and are not optimized for performance. Computing an example of 10x15 lattice can take several hours. Consider an option to reduce the size of the lattice or to use saved solution data (.dill) with palyer.py. 
 
