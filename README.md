@@ -95,5 +95,5 @@ Runnable examples:
 * two_spring_example\pp+pp_many_solutions.py
 * two_spring_example\soft+soft_3_solutions.py
 
-DISCLAIMER: The simulations serve as a proof of concept and are not optimized for performance. Computing an example of a 10x15 lattice can take several hours due to nested iterative methods. Consider to reduce the size of a lattice or to use saved solution data (.dill) with palyer.py. 
+DISCLAIMER: The simulations serve as a proof of concept and are not optimized for performance. Computing an example of a 10x15 lattice can take several hours due to nested iterative methods. Consider reducing the size of a lattice or using saved solution data (.dill) with palyer.py. 
 
